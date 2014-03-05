@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
   s.name         = "HelloSpec"
   s.version      = "2.0.2"
-  s.summary      = "A short description of HelloSpec."
+  s.summary      = "This is a small summary of this project"
 
   s.homepage     = "https://github.com/kbv22/PrivatePods"
 
